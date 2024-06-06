@@ -1,6 +1,6 @@
 # Sobre Mim
 
-<p>Olá! Eu sou Kerlon Amaral, um entusiasta da programação de 16 anos, morador de Vespasiano, na região metropolitana de Belo Horizonte, MG. Atualmente, estou me dedicando ao aprendizado de JavaScript e expandindo meus conhecimentos teóricos em programação.
+<p>Olá! Eu sou Kerlon Amaral, um entusiasta da programação, morador de Vespasiano, na região metropolitana de Belo Horizonte, MG. Atualmente, estou me dedicando ao aprendizado de JavaScript e expandindo meus conhecimentos teóricos em programação.
 Habilidades</p>
 
 <ul>
