@@ -20,7 +20,6 @@ Habilidades</p>
 
 <ul>
     <li><strong>Email:</strong> kerlon.amaral1@gmail.com</li>
-    <li><strong>Linkedin:</strong> <a href>https://www.linkedin.com/in/kerlon-amaral-0a821230b/</a> </li>
 </ul>
 
 ## Projetos
