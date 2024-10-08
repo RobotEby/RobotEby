@@ -17,11 +17,7 @@ Olá! Eu sou Kerlon Amaral, um entusiasta da programação, morador de Vespasian
 ## Contato
 
 - **Email:** [kerlon.amaral1@gmail.com](mailto:kerlon.amaral1@gmail.com)
-
-  ## Rede Social
   
-- [Instagram](https://www.instagram.com/kerlonsl._?igsh=bDVud3hid3VlMHc0)
-
 ## Projetos
 
 ### [Ton-cash-app](https://github.com/RobotEby/Ton-Cash-App.git)
