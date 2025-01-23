@@ -49,21 +49,6 @@ ___
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
 </div>
 
-___
-
-### Meus contatos:
-
-<div align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img width="1" />
-  <a href="https://discord.com/users/719950847248957520">
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <img width="1" />
-  <a href="mailto:kerlon.amaral1@gmail.com">
-  <img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white&style=for-the-badge" height="30" alt="google logo" />
-</a>
-
 </div>
 
 ___
