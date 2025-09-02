@@ -53,7 +53,7 @@ I am always looking to improve my technical skills by staying up to date with ne
 
 ## 🌐 Contact & Networks
 
-<div align="center">
+<div align="left">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerlon.amaral1@gmail.com)
 
@@ -66,8 +66,13 @@ I am always looking to improve my technical skills by staying up to date with ne
   <summary>GitHub statistics</summary>
   
 ![Kerlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobotEby&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobotEby&layout=compact&theme=radical)
 
 </details>
 
-</div>
+<details>
+
+ <summary>most widely used programming languages</summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobotEby&layout=compact&theme=radical)
+
+</details>
