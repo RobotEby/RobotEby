@@ -1,59 +1,73 @@
-Olá! Me chamo __Kerlon Amaral__, morador de Vespasiano, na região metropolitana de Belo Horizonte, MG. Atualmente, estou estudando __Desenvolvimento Web__.
+<h1 align="center">Hello, I'm Kerlon. 👋</h1>
+<p align="center">💻 Software Engineer & Full-Stack Developer 🚀</p>
 
-___
+---
 
-### Linguagens de programação e frameworks:
+## 🧑‍💻 About me
+- 🌍 I currently reside in Vespasiano, MG, which is part of the Belo Horizonte Metropolitan Area.
+- 🎓 **Software Engineering and Full-Stack Development Specialist**
+- ⚡ Experience in **Front-end, Back-end, DevOps, and Databases**
+- 🎯 Objective: Deliver robust, scalable, and high-impact solutions
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=black&style=for-the-badge" height="30" alt="sequelize logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="30" alt="jest logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" height="30" alt="mocha logo"  />
-</div>
+ I am an experienced full-stack developer who builds modern web applications using JavaScript, TypeScript, React, Vue.js, and Node.js technologies. I work on both the front and back ends, focusing on scalable, high-performance, high-quality solutions.
 
-___
+I have experience developing complex features, refactoring legacy code, and implementing structural improvements while paying close attention to organization, performance, and maintainability. I work with relational and non-relational databases, such as MySQL and MongoDB, and automated testing tools, such as Jest, Mocha, and Chai. I use Docker, Git, and CI/CD to ensure consistent environments and continuous delivery.
 
-### Ferramentas:
+I adhere to best development practices such as test-driven development, clean version control, and robust software architecture. I am also familiar with Agile methodologies, such as Scrum and Kanban. I value collaboration, communication, and efficiency in the development process.
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="30" alt="visualstudio logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
-</div>
+I am always looking to improve my technical skills by staying up to date with new technologies and industry standards. I am ready to take on technical challenges with responsibility, autonomy, and a commitment to results.
+
+---
+
+## 🚀 Languages & Tools:
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-___
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobotEby&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobotEby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+## 🌐 Contact & Networks
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerlon.amaral1@gmail.com)
+
+</div>
+
+---
+
+<details>
+  
+  <summary>GitHub statistics</summary>
+  
+![Kerlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobotEby&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobotEby&layout=compact&theme=radical)
+
+</details>
+
 </div>
