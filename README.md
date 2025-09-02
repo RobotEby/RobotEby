@@ -19,6 +19,12 @@ I am always looking to improve my technical skills by staying up to date with ne
 
 ---
 
+## 📌 Featured projects
+
+- 📊 [w-369789](https://w-369789.vercel.app) - Future CBAAP digital marketing agency
+
+---
+
 ## 🚀 Languages & Tools:
 
 <div align="center">
