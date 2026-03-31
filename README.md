@@ -65,15 +65,15 @@ I’m always looking to improve technically and stay updated on new technologies
 ## The latest (and best) projects
 
 <div align="center" style="border: 1px solid #e4e2e2; border-radius: 7px; padding: 10px;">
-<a href="https://github.com/RobotEby/TheDarkMark">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=TheDarkMark&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Readme Card" />
+<a href="https://github.com/RobotEby/Parry_DDoS">
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=Parry_DDoS&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Readme Card" />
 </a>
     
-<a href="https://github.com/Yyax13/Arachne">
+<a href="https://github.com/RobotEby/Arachne">
     <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=Arachne&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
-<a href="https://github.com/Yyax13/phantom-synapse">
+<a href="https://github.com/RobotEby/phantom-synapse">
     <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=phantom-synapse&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
@@ -81,8 +81,8 @@ I’m always looking to improve technically and stay updated on new technologies
     <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=Nyx&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
-<a href="https://github.com/RobotEby/ScorpionC2">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=ScorpionC2&theme=tokyonight&show_owner=true&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/RobotEby/Epeius">
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=Epeius&theme=tokyonight&show_owner=true&hide_border=true&bg_color=0d1117" />
 </a>
 
 <a href="https://github.com/RobotEby/ChimeraIDS">
