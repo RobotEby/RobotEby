@@ -6,15 +6,17 @@
 <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=RobotEby&layout=compact&count_weight=0&exclude_repo=Plataforma-Cursos,nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor,zine,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc&theme=tokyonight&hide_border=true&bg_color=0d1117">
 </div>
 
-I’m a Full Stack Developer with 4+ years of experience building modern web applications using JavaScript, TypeScript, React, Vue.js, Node.js, REST APIs, authentication, databases, and containerized environments.
+Full-Stack Developer with over 4 years of hands-on experience in developing complete web applications, working from frontend to backend with React, TypeScript, Node.js, REST APIs, authentication, databases, Docker, and application deployment.
 
-I enjoy working across the entire development process, from understanding requirements and structuring the application to building features, improving performance, deploying projects, and maintaining code quality over time.
+I am interested in digital products, well-structured web systems, and solutions that connect technology to the real-world context of the user and the business. I enjoy working on end-to-end projects, participating in solution modeling, interface design, API development, database integration, authentication, testing, deployment, maintenance, and adjustments for production environments.
 
-My experience includes training and fitness platforms with AI features, industrial traceability systems, e-commerce applications, dashboards, authentication flows, multi-tenant APIs, and administrative panels. I focus on writing clean, maintainable, and scalable code, with attention to performance, security, user experience, and business needs.
+I have developed projects such as training platforms with AI assistants, industrial traceability systems, e-commerce sites, and web solutions for small businesses. These experiences have helped me evolve in creating responsive interfaces, organized backends, REST APIs, authentication flows, frontend-backend integration, containerized environments, and clearer, more secure, and easier-to-maintain application architectures.
 
-I work with technologies such as PostgreSQL, MySQL, MongoDB, Prisma, Drizzle ORM, Sequelize, TypeORM, Docker, Git, GitHub Actions, CI/CD, Vercel, Netlify, Railway, Render, Jest, and Vitest.
+I value clean code, modular architecture, security, performance, and a good user experience. I’m also interested in DevOps, cloud computing, and automation, particularly topics such as Docker, CI/CD, deployment, environment variables, CORS, route protection, observability, reliability, and continuous improvement of delivery processes.
 
-I’m always improving as a developer and looking for opportunities to build useful, reliable, and well-structured software with responsibility, autonomy, and attention to detail.
+I strive to write simple, organized, and scalable solutions, always understanding the problem before choosing the technology. 
+
+Stack: React · Vue.js · TypeScript · JavaScript · Node.js · NestJS · REST APIs · PostgreSQL · MySQL · MongoDB · Prisma · Docker · Docker Compose · Git · GitHub Actions · CI/CD · AWS · Vercel · Railway · Render
 
 ## Skills
 
