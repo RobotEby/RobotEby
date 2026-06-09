@@ -14,57 +14,66 @@ I have developed projects such as training platforms with AI assistants, industr
 
 I value clean code, modular architecture, security, performance, and a good user experience. I’m also interested in DevOps, cloud computing, and automation, particularly topics such as Docker, CI/CD, deployment, environment variables, CORS, route protection, observability, reliability, and continuous improvement of delivery processes.
 
-I strive to write simple, organized, and scalable solutions, always understanding the problem before choosing the technology. 
-
-Stack: React · Vue.js · TypeScript · JavaScript · Node.js · NestJS · REST APIs · PostgreSQL · MySQL · MongoDB · Prisma · Docker · Docker Compose · Git · GitHub Actions · CI/CD · AWS · Vercel · Railway · Render
+I strive to write simple, organized, and scalable solutions, always understanding the problem before choosing the technology.
 
 ## Skills
 
 <div align="center">
-  
+
 <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logoColor=593D88" />
 <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/rest_apis-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />
 <img src="https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=336791" />
 <img src="https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=003B57" />
 <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
 <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=0DB7ED" />
+<img src="https://img.shields.io/badge/docker_compose-000000?style=for-the-badge&logo=docker&logoColor=0DB7ED" />
+<img src="https://img.shields.io/badge/github_actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/ci%2Fcd-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/railway-000000?style=for-the-badge&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" />
 <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
 <img src="https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=00ADD8" />
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C" />
 <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logoColor=593D88" />
 <img src="https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=C21325" />
 <img src="https://img.shields.io/badge/mocha-000000?style=for-the-badge&logo=mocha&logoColor=8D6748" />
 <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Cobra_CLI-000000?style=for-the-badge&logo=go&logoColor=00ADD8" />
 <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F05033" />
 <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/Malware_Development-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Red_Team-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/C2-000000?style=for-the-badge" />
-  
+<img src="https://img.shields.io/badge/AppSec-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Security-000000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<img src="https://img.shields.io/badge/Pentest_Labs-000000?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+<img src="https://img.shields.io/badge/Security_Research-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+
 </div>
 
-## Other media
+## Connect With Me
 
 <div align="left">
-  
+
 [<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />](mailto:kerlon.amaral1@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />](https://www.linkedin.com/in/kerlon-amaral/)
+[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />](https://www.linkedin.com/in/kerlon-amaral-dev/)
 
 </div>
 
-## The latest (and best) projects
+## Highlighted Projects
 
 <div align="center" style="border: 1px solid #e4e2e2; border-radius: 7px; padding: 10px;">
 <a href="https://github.com/RobotEby/Parry_DDoS">
