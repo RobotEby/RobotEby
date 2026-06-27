@@ -6,16 +6,6 @@
 <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=RobotEby&layout=compact&count_weight=0&exclude_repo=Plataforma-Cursos,nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor,zine,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc&theme=tokyonight&hide_border=true&bg_color=0d1117">
 </div>
 
-Full-Stack Developer with over 4 years of hands-on experience in developing complete web applications, working from frontend to backend with React, TypeScript, Node.js, REST APIs, authentication, databases, Docker, and application deployment.
-
-I am interested in digital products, well-structured web systems, and solutions that connect technology to the real-world context of the user and the business. I enjoy working on end-to-end projects, participating in solution modeling, interface design, API development, database integration, authentication, testing, deployment, maintenance, and adjustments for production environments.
-
-I have developed projects such as training platforms with AI assistants, industrial traceability systems, e-commerce sites, and web solutions for small businesses. These experiences have helped me evolve in creating responsive interfaces, organized backends, REST APIs, authentication flows, frontend-backend integration, containerized environments, and clearer, more secure, and easier-to-maintain application architectures.
-
-I value clean code, modular architecture, security, performance, and a good user experience. I’m also interested in DevOps, cloud computing, and automation, particularly topics such as Docker, CI/CD, deployment, environment variables, CORS, route protection, observability, reliability, and continuous improvement of delivery processes.
-
-I strive to write simple, organized, and scalable solutions, always understanding the problem before choosing the technology.
-
 ## Skills
 
 <div align="center">
