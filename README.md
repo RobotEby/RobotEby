@@ -2,15 +2,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=E6EDF3&center=true&vCenter=true&width=950&height=90&lines=Hi%2C+I%27m+Kerlon+Amaral;Full+Stack+Developer+focused+on+Backend;React+%7C+TypeScript+%7C+Node.js%7C+NestJS%7C+Fastify;REST+APIs%7C+PostgreSQL%7C+Docker;Data+modeling%7C+Business+rules%7C+Auth%7C+Tests%7C+Deploy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=E6EDF3&center=true&vCenter=true&width=950&height=90&lines=Hi%2C+I%27m+Kerlon+Amaral;Full+Stack+Developer+focused+on+Backend;React+%7C+TypeScript+%7C+Node.js+%7C+NestJS+%7C+Fastify;REST+APIs+%7C+PostgreSQL+%7C+Docker;Data+modeling+%7C+Business+rules+%7C+Auth+%7C+Tests+%7C+Deploy)](https://git.io/typing-svg)
 
 </div>
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=RobotEby&show_icons=true&theme=tokyonight&layout=compact&hide_border=false&border_color=30363D&bg_color=000720&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" />
-  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=RobotEby&layout=compact&count_weight=0&exclude_repo=Plataforma-Cursos,nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor,zine,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=000720&title_color=E6EDF3&text_color=C9D1D9" />
+  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=RobotEby&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" />
+  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=RobotEby&layout=compact&count_weight=0&exclude_repo=Plataforma-Cursos,nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor,zine,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=C9D1D9" />
 </div>
 
 ## Skills
@@ -69,19 +69,19 @@
 ## Highlighted Projects
 
 <div align="center">
-<a href="https://github.com/RobotEby/parry-express-security-middleware"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=parry-express-security-middleware&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=000720&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
-<a href="https://github.com/RobotEby/parry-security-console"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=parry-security-console&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=000720&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
+<a href="https://github.com/RobotEby/parry-express-security-middleware"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=parry-express-security-middleware&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
+<a href="https://github.com/RobotEby/parry-security-console"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=parry-security-console&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
 </div>
 
 <div align="center">
-<a href="https://github.com/RobotEby/rastroom-platform-backend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=rastroom-platform-backend&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=000720&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
-<a href="https://github.com/RobotEby/rastroom-platform-frontend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=rastroom-platform-frontend&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=000720&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
+<a href="https://github.com/RobotEby/rastroom-platform-backend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=rastroom-platform-backend&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
+<a href="https://github.com/RobotEby/rastroom-platform-frontend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=rastroom-platform-frontend&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
 </div>
 
 <div align="center">
-<a href="https://github.com/RobotEby/evolux-platform-backend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-platform-backend&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=000720&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
-<a href="https://github.com/RobotEby/evolux-platform-frontend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-platform-frontend&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=000720&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
-<a href="https://github.com/RobotEby/evolux-ai-service"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-ai-service&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=000720&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
+<a href="https://github.com/RobotEby/evolux-platform-backend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-platform-backend&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
+<a href="https://github.com/RobotEby/evolux-platform-frontend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-platform-frontend&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
+<a href="https://github.com/RobotEby/evolux-ai-service"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-ai-service&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=663DAD&height=120&section=footer"/>
