@@ -66,33 +66,19 @@
 ## Highlighted Projects
 
 <div align="center">
-  <a href="https://github.com/RobotEby/parry-express-security-middleware">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=parry-express-security-middleware&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" />
-  </a>
-  <a href="https://github.com/RobotEby/parry-security-console">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=parry-security-console&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" />
-  </a>
+<a href="https://github.com/RobotEby/parry-express-security-middleware"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=parry-express-security-middleware&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
+<a href="https://github.com/RobotEby/parry-security-console"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=parry-security-console&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/RobotEby/rastroom-platform-backend">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=rastroom-platform-backend&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" />
-  </a>
-  <a href="https://github.com/RobotEby/rastroom-platform-frontend">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=rastroom-platform-frontend&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" />
-  </a>
+<a href="https://github.com/RobotEby/rastroom-platform-backend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=rastroom-platform-backend&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
+<a href="https://github.com/RobotEby/rastroom-platform-frontend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=rastroom-platform-frontend&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/RobotEby/evolux-platform-backend">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-platform-backend&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" />
-  </a>
-  <a href="https://github.com/RobotEby/evolux-platform-frontend">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-platform-frontend&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" />
-  </a>
-  <a href="https://github.com/RobotEby/evolux-ai-service">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-ai-service&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" />
-  </a>
+<a href="https://github.com/RobotEby/evolux-platform-backend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-platform-backend&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
+<a href="https://github.com/RobotEby/evolux-platform-frontend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-platform-frontend&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
+<a href="https://github.com/RobotEby/evolux-ai-service"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-ai-service&show_owner=true&theme=tokyonight&hide_border=false&border_color=663DAD&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&icon_color=A855F7" /></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=663DAD&height=120&section=footer"/>
