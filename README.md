@@ -10,7 +10,6 @@
 ## Skills
 
 <p align="left">
-  
   <img
     src="https://raw.githubusercontent.com/llohs/llohs/main/1000048504-removebg-preview.png"
     align="right"
@@ -24,6 +23,7 @@
   <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/vite-000000?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwind_css-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/tanstack_query-000000?style=for-the-badge&logo=reactquery&logoColor=white" />
@@ -36,11 +36,14 @@
   <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/rest_apis-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/websocket-000000?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/swagger%2Fopenapi-000000?style=for-the-badge&logo=swagger&logoColor=white" />
 </div>
 
 <div align="left">
   <img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/drizzle_orm-000000?style=for-the-badge&logo=drizzle&logoColor=white" />
   <img src="https://img.shields.io/badge/redis-000000?style=for-the-badge&logo=redis&logoColor=white" />
@@ -49,6 +52,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/vitest-000000?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/testing_library-000000?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/supertest-000000?style=for-the-badge&logo=supertest&logoColor=white" />
   <img src="https://img.shields.io/badge/playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/zod-000000?style=for-the-badge&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
@@ -59,9 +64,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/tryhackme-000000?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/nmap-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/firewall-000000?style=for-the-badge&logo=pfsense&logoColor=white" />
 </div>
 
 <div align="left">
@@ -93,19 +95,7 @@
 ## Highlighted Projects
 
 <div align="center">
-<a href="https://github.com/RobotEby/parry-express-security-middleware"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=parry-express-security-middleware&show_owner=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /></a>
-<a href="https://github.com/RobotEby/parry-security-console"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=parry-security-console&show_owner=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /></a>
-</div>
-
-<div align="center">
-<a href="https://github.com/RobotEby/rastroom-platform-backend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=rastroom-platform-backend&show_owner=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /></a>
-<a href="https://github.com/RobotEby/rastroom-platform-frontend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=rastroom-platform-frontend&show_owner=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /></a>
-</div>
-
-<div align="center">
-<a href="https://github.com/RobotEby/evolux-platform-backend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-platform-backend&show_owner=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /></a>
-<a href="https://github.com/RobotEby/evolux-platform-frontend"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-platform-frontend&show_owner=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /></a>
-<a href="https://github.com/RobotEby/evolux-ai-service"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=evolux-ai-service&show_owner=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /></a>
+  <a href="https://github.com/RobotEby/parry"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=parry&show_owner=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /></a><a href="https://github.com/RobotEby/ChimeraIDS"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=ChimeraIDS&show_owner=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
