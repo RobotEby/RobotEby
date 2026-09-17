@@ -3,8 +3,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=RobotEby&show_icons=true&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
-  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=RobotEby&layout=compact&count_weight=0&exclude_repo=Plataforma-Cursos,nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor,zine,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
+  <img src="https://github-stats-extended.vercel.app/api?username=RobotEby&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RobotEby&layout=compact&count_weight=0&exclude_repo=Plataforma-Cursos,nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor,zine,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
 </div>
 
 ## Skills
@@ -91,11 +91,5 @@
 
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerlon.amaral1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerlon-amaral-dev/)
-
-## Highlighted Projects
-
-<div align="center">
-  <a href="https://github.com/RobotEby/parry"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=parry&show_owner=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /></a><a href="https://github.com/RobotEby/ChimeraIDS"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=RobotEby&repo=ChimeraIDS&show_owner=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" /></a>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
